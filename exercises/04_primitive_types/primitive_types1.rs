@@ -6,8 +6,6 @@ fn main() {
         println!("Good morning!");
     }
 
-    // TODO: Define a boolean variable with the name `is_evening` before the `if` statement below.
-    // The value of the variable should be the negation (opposite) of `is_morning`.
     let is_evening = !is_morning;
     if is_evening {
         println!("Good evening!");

@@ -1,5 +1,4 @@
 fn main() {
-    // TODO: Create an array called `a` with at least 100 elements in it.
     let a = [322; 500];
 
     if a.len() >= 100 {
